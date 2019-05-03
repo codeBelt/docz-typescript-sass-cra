@@ -1,0 +1,22 @@
+
+.wrapper {
+  align-items: center;
+  display: flex;
+  padding: 5px 16 * 2;
+
+  color: #000;
+  font-size: 16px;
+  //font-weight: $font-weight-regular;
+  text-transform: uppercase;
+
+  border: 2px solid green;
+  border-radius: 50px;
+
+  &:hover,
+  &:focus,
+  &:active,
+  &.isActive {
+    color: lightblue;
+    background-color: green;
+  }
+}
