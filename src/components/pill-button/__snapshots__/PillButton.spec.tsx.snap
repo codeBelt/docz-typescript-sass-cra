@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PillButton render component renders default state 1`] = `
+<button
+  className="wrapper"
+  onClick={[Function]}
+  type="button"
+/>
+`;

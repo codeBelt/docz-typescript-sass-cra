@@ -41,6 +41,9 @@
   },
   "devDependencies": {
     "@types/classnames": "^2.2.7",
+    "docz": "^1.1.0",
+    "docz-plugin-css": "^0.11.0",
+    "docz-theme-default": "^1.1.0",
     "node-sass": "^4.12.0"
   }
 }
